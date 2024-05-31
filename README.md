@@ -6,7 +6,7 @@ Using this program, the user can select an image from their desired file and vie
 Initially, upon running the program, a page titled "Image Viewer" opens, which includes 6 different options: Choose Image, Show Image, Brightness, Gray Scale, Resize, and Exit. 
 # Options:
 # 1) Choose Image:
-By selecting this button, a panel opens where the user chooses their image from a file whose address has been previously provided in the program.(For example, I have uploaded a file named "photos" here that you can use later on and within the program.)
+By selecting this button, a panel opens where the user chooses their image from a file whose address has been previously provided in the program.(For example, I used a file named photos in my PC)
 # 2) Show Image:
 Clicking this button displays the user's selected image in a new frame.
 # 3) Brightness:
